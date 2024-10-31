@@ -1,8 +1,7 @@
 # FridayProject8
-"""
 Password: Coffee247
 
-Customer Feedback Application
+##Customer Feedback Application
 
 A simple Python application using SQLite and Tkinter to collect and manage customer feedback.
 
